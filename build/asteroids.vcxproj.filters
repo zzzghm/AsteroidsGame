@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\surface\Desktop\asteroids_template\shaders\shader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\surface\Desktop\asteroids_template\source\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\surface\Desktop\asteroids_template\source\Ship.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\surface\Desktop\asteroids_template\source\Asteroid.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\surface\Desktop\asteroids_template\source\Bullet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\surface\Desktop\asteroids_template\source\AsteroidSmall.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\surface\Desktop\asteroids_template\source\common.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\surface\Desktop\asteroids_template\source\utils\Angel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\surface\Desktop\asteroids_template\source\utils\CheckError.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\surface\Desktop\asteroids_template\source\utils\mat.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\surface\Desktop\asteroids_template\source\utils\vec.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\surface\Desktop\asteroids_template\source\Ship.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\surface\Desktop\asteroids_template\source\Asteroid.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\surface\Desktop\asteroids_template\source\Bullet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\surface\Desktop\asteroids_template\source\AsteroidSmall.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\surface\Desktop\asteroids_template\shaders\fshader_Ship.glsl" />
+    <None Include="C:\Users\surface\Desktop\asteroids_template\shaders\vshader_Ship.glsl" />
+    <None Include="C:\Users\surface\Desktop\asteroids_template\shaders\fshader_Asteroid.glsl" />
+    <None Include="C:\Users\surface\Desktop\asteroids_template\shaders\vshader_Asteroid.glsl" />
+    <None Include="C:\Users\surface\Desktop\asteroids_template\shaders\fshader_Bullet.glsl" />
+    <None Include="C:\Users\surface\Desktop\asteroids_template\shaders\vshader_Bullet.glsl" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{CB99EA96-138A-34D3-A6F7-C92DD7BD500B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{F6D7984D-98BE-3DB1-81CC-05D36CFD0266}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

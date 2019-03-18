@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\surface\Desktop\asteroids_template\build\CMakeFiles\c80baa8f2b12ea667580375a2be43c0c\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{EBAE9F1E-16E4-370C-86B2-56D072DD027E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

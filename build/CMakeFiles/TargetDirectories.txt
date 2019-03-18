@@ -1,0 +1,6 @@
+C:/Users/surface/Desktop/asteroids_template/build/CMakeFiles/glad.dir
+C:/Users/surface/Desktop/asteroids_template/build/CMakeFiles/asteroids.dir
+C:/Users/surface/Desktop/asteroids_template/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/surface/Desktop/asteroids_template/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/surface/Desktop/asteroids_template/build/glfw-3.2/CMakeFiles/ALL_BUILD.dir
+C:/Users/surface/Desktop/asteroids_template/build/glfw-3.2/src/CMakeFiles/glfw.dir
